@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Hello!</title>
+        <!-- The ~ refers to the wwwroot folder in this context -->
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <!-- The Razor View Engine of ASP.NET allows for C# code to be used
+        directly in an HTML document by denoting a section of code with @ and {} -->
+        @{
+            var stringList = new List<string>{
+                                    "one",
+                                    "two",
+                                    "three",
+                                    "four"
+                                };
+            foreach (var word in stringList)
+            {
+                // We can render the HTML from within the C# code
+                <p>@word</p>
+            }
+        }
+        <h2>@ViewBag.TextExample</h2>
+        <h2>@ViewBag.NumberExample</h2>
+        <form action="method" method="post">
+            <input type="text" name="texfField"/>
+            <input type="number" name="numberField"/>
+            <button type="submit">Submit</button>
+        </form>
+    </body>
+</html>

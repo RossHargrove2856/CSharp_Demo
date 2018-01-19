@@ -1,0 +1,10 @@
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/bin/Debug/netcoreapp2.0/Setup.deps.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/bin/Debug/netcoreapp2.0/Setup.runtimeconfig.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/bin/Debug/netcoreapp2.0/Setup.runtimeconfig.dev.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/bin/Debug/netcoreapp2.0/Setup.dll
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/bin/Debug/netcoreapp2.0/Setup.pdb
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/obj/Debug/netcoreapp2.0/Setup.csproj.CoreCompileInputs.cache
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/obj/Debug/netcoreapp2.0/Setup.AssemblyInfoInputs.cache
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/obj/Debug/netcoreapp2.0/Setup.AssemblyInfo.cs
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/obj/Debug/netcoreapp2.0/Setup.dll
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_Core/Setup/obj/Debug/netcoreapp2.0/Setup.pdb
